@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Easton Public Market",
+        "category": "Markets",
+        "city": "Easton",
+        "state": "Pennsylania",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.20581,
+            "latitude": 40.69006
+        },
+        "description": "The Easton Public Market is a locally-driven community market that offers high quality grocery shopping and an array of dining experiences - a unique blend of artisanal food vendors, a full service farmstand (SNAP accepted), and restaurants offering many different culinary influences.  A state of the art teaching kitchen features culinary classes, chef demos and dining experiences. Like the historic Easton Farmers' Market, the Easton Public Market offers a vibrant, community gathering space that showcases the Lehigh Valley’s local food culture!",
+        "imageName": "easton_farmers_market"
+    },
+    {
+        "name": "Blue Marsh Market",
+        "category": "Markets",
+        "city": "Bernville,Berks",
+        "state": "Pennsylvania",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude":-76.11260,
+            "latitude": 40.43250,
+        },
+        "description": "Organic Grocery Store specializing in our own homegrown organic produce. We also have a large selection of gluten-free products and much more.",
+        "imageName": "blue_market"
+    },
+    {
+        "name": "Crystal Spring Farm",
+        "category": "Farms",
+        "city": "Schnecksville",
+        "state": "Pennsylvania",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.59603,
+            "latitude": 40.68396
+        },
+        "description": "Here at Crystal Spring Farm, we only offer you the freshest milk, ice cream, and beef products. We always strive for greatness. Our retail store is open daily and features our fresh milk, homemade ice cream, homegrown beef products, homemade pies and cakes, as well as a busy deli, and grocery items. Our homemade ice cream is made using the milk and cream fresh from our dairy herd.We are proud to be one of few dairy farms that not only raises cattle, grows our own feed, but also bottles our own milk products and packages our own ice cream.",
+        "imageName": "crystal_farm"
+    },
+    {
+        "name": "Bernard's Green Valley Farm",
+        "category": "Farms",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "We are a family farm specializing in Christmas trees, wreaths, and roping in the winter and pick your own blueberries in the summer. We also hand craft artisan jams, jellies, and preserves utilizing what we grow on our farm and that of our neighboring farms.",
+        "imageName": "bernand_green_valley"
+    },
+    {
+        "name": "Flint Hill Farm Educational Center",
+        "category": "Organizations",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "flint_hill_farm"
+    },
+    {
+        "name": "LaFarm, The Lafayette College Community Garden & Working Farm",
+        "category": "Organizations",
+        "city": "Easton",
+        "state": "Pennsylvania",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "lafarm"
+    },
+    {
+        "name": "Bethlehem Food Co-Op",
+        "category": "Markets",
+        "city": "Bethlehem",
+        "state": "Pennsylvania",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "We plan to open a community owned and operated grocery store in downtown Bethlehem. Our goals are to offer healthy, affordable, locally-focused food and informational workshops in a convenient neighborhood location.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Eat Real Food Mobile Market - Winter",
+        "category": "Markets",
+        "city": "Tatamy",
+        "state": "Pennsylvania",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Kellyn is excited to continue offering you healthy, affordable, and fresh foods throughout this Fall/Winter season!  All orders must be made online a day in advance.  Orders are being packed in our commercial kitchen and able to be picked up at the following sites (Easton, Bethlehem. Allentown) listed below.  Please note, less time will be spent at each site and there will not be extra food on mobile market to purchase in person.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Local Leaf Market",
+        "category": "Markets",
+        "city": "Oley",
+        "state": "Pennsylvania",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Local Leaf Market is a grocery focused on providing access to fresh, healthy & nutritious products sourced primarily from LOCAL Growers & Producers. Previously known as Oley Valley Organics Market.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Nature's Way",
+        "category": "Markets",
+        "city": "Easton",
+        "state": "Pennsylvania",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "We are an independent health food store established in 1975, located in downtown Easton.  Our store is bright and comfortable with a knowledgeable staff ready to help. We specialize in local products such as honey, pastured milk, eggs, meats and raw cheeses.  We also carry local produce and fermented vegetables.  We’re proud to carry locally made supplements and body care lines as well.  We have a full bulk section of herbs and spices, nuts, beans, and grains.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Renninger’s Antique and Farmer’s Market",
+        "category": "Markets",
+        "city": "Kutztown",
+        "state": "Pennsylvania",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Our butchers offer the fullest line of fresh and smoked meats (A trademark of the Penna. Dutch area), produce, fish poultry, candy, snacks,& baked goods. There is a fabulous Folk Art Shoppe, along with flower & novelty stores. Attached to the Market is 200 Indoor Booths filled with Antiques & Collectibles, Outdoor and Pavilion Flea Market catering to the antiques & collectors trade on Saturdays. Special Antiques Extravaganzas featuring hundreds of dealers April, June, & September. Antiques Radio Swapmeet May & September, and more!",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Wanamakers General Store",
+        "category": "Markets",
+        "city": "Kempton",
+        "state": "Pennsylvania",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "A slice of local history, Wanamakers Generals Store was founded in 1886 and operates from its original brick and mortar building nestled among the rolling hills of Kempton PA. Through our collaboration with many local businesses, growers, and artisans, we offer a unique shopping experience. Visit our deli for an exciting selection of hoagies, wraps, and salads made to order. Stock your pantry with our wide variety of dry goods, bulk foods and fresh local produce. Visit the Grab and Go cooler stocked with fresh sliced deli meats, cheeses or try one of our seasonal salads made fresh on premise with ingredients from our organic garden.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "High Point Kombucha",
+        "category": "Markets",
+        "city": "Allentown",
+        "state": "Pennsylvania",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "High Point Kombucha is a small single-batch, 100% raw, unfiltered, and naturally-carbonated product.   All flavors are created using whole fruits, vegetables, and herbs, never using juices or concentrates.  Flavors are developed to showcase the Lehigh Valley's seasonal harvests, and new flavors are always being explored.  My on-going mission is to make kombucha approachable, delicious, healthful, and a responsible part of the Lehigh Valley food culture.  With a passion for health and local food, I strive to always improve with the goal of making the most locally-sourced, wholesome bottle of kombucha I can!",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Valley Milkhouse",
+        "category": "Markets",
+        "city": "Oley",
+        "state": "Pennsylvania",
+        "id": 1017,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Valley Milkhouse is an artisan creamery producing fresh and aged cheeses, butter and yogurt. We are inspired by the European cheesemaking tradition, making primarily French and Dutch styles. We handcraft each cheese with special attention to texture and flavor, and we seek to allow the terroir of the region to shine. Our milk comes from Spring Creek Farm and Dutch Meadows Dairy -- both certified organic dairies feeding their cows a 100% grass-based diet. Spring Creek's herd is a mix of Jersey, Ayrshire and Holstein breeds. Dutch Meadows raises the rare Dutch belted breed of cattle, known for its delicate and easily digestible milk.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Meals On Wheels of the Greater Lehigh Valley",
+        "category": "Markets",
+        "city": "Bettlehem",
+        "state": "Pennsylvania",
+        "id": 1018,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "We use as much local farm fresh produce as possible to prepare over half a million meals per year for seniors and people with disabilities in Lehigh and Northampton Counties. Meals are home-delivered to our seniors by a dedicated core of 1,500 volunteers.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Eight Oaks Farm Distillery",
+        "category": "Markets",
+        "city": "New Tripoli",
+        "state": "Pennsylvania",
+        "id": 1019,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Eight Oaks Craft Distillers is a veteran-owned farm distillery. We raise all our own grains on site or on neighboring farms. We also source local ingredients from other farms and orchards like Scholl Orchards in Kempton. We craft all of these fresh, locally raised ingredients into wonderful spirits. Stop in and enjoy a tasting, tour, or just a cocktail in our tasting room.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Curious Goods at The Bake Oven Inn",
+        "category": "Markets",
+        "city": "Germansville",
+        "state": "Pennsylvania",
+        "id": 1020,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Nestled just below the famous Bake Oven Knob, from which the original inn gets its name, awaits a delicious sampling of Curious Goods. Join us for a truly unique, intimate farm-to-table dining experience in our historic country inn, located in the midst of rural farm & horse country. Our award-winning menu focuses on seasonal, local ingredients with a “curious” twist. We also offer a wide variety of specialty drinks, wines & craft beers. We are friendly people with a passion for exquisite food and fresh local ingredients.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Green Harvest Food Emporium",
+        "category": "Markets",
+        "city": "Easton",
+        "state": "Pennsylvania",
+        "id": 1021,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Green Harvest Food Emporium’s green philosophy is to buy local, serve fresh and do right by the environment. Our gourmet deli features menu items such as home-made wraps, sandwiches, salads, soups, and paninis. We accommodate many different diets by offering vegan and vegetarian menu items and gluten free meals as well. We also offer fresh baked goods made on-site and express drinks. We are the preferred caterer for the Grand Eastonian Suites Hotel and offer off-site catering as well.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Switchback Pizza",
+        "category": "Markets",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "id": 1022,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Neapolitan pizza cooked at 900 degrees in our Italian wood oven for you to enjoy with family and friends. The inspiration for our pizzas comes from the bounty of our local farms allowing us to bring farm-to-table pizza to you at our restaurant in Emmaus.At our online provisions store you will find a variety of products from local producers as well as breads made in our pizza oven that can be ordered ahead and picked up at the restaurant. Our frozen pizza can be purchased at several local farm markets, including Salvaterra's. We also offer Red Balloon Cider- hard cider made from 100% PA sourced apples.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Twisted Olive",
+        "category": "Markets",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "id": 1023,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "A casual bistro with a world twist, offering infused liquors, unique cocktails, & amp; delicious food, all with a commitment to the freshest ingredients.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Bath Farmers' Market",
+        "category": "Markets",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "id": 1024,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Bath Farmers Market is an open-air, producer-only market. Founded in 2009. The market is held weekly on Saturdays 9 a.m. to 12 p.m. mid-May through the end of September. Featuring fresh, seasonal locally grown produce. Eggs, meats, Smoked cheeses, beef jerky, prepared foods such as smoothies, artisan breads, peanut butter, pies, honey, breakfast and lunch type foods, dog treats and local spirits. Events include Kids’ Day, Tomato Fest, the Little Miss Strawberry contest, Northampton Public Library every third Saturday events, Demos and fundraising events. Dog friendly, Free parking. 16 vendors.",
+        "imageName": "umbagog"
+    },
+]
